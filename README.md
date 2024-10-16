@@ -4,6 +4,8 @@ Better soul, weapon, and armor drop rates.
 
 Luck stat fixed.
 
+Soul Eater Ring costs 30000 gold.
+
 Castlevania - Aria of Sorrow (USA).gba
 
 CRC-32: 35536183
